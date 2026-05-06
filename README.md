@@ -1,37 +1,74 @@
- Olá, me chamo Ian ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Ian 👋
 
-- 🌱 Atualmente estou cursando Engenharia de Software na FIAP, no 1° Ano!
-- 🌱 Atualmente estou aprendendo Pensamento Computacional com Python, Web Development com JavaScript, Front-End Design com HTML5 e CSS3...
-- 🔭 Buscando estágio na área para expandir meus conhecimentos e experiência
-- 😄 Pronomes: Ele/Dele
-- 📫 Como entrar em contato comigo: <br>
-<a href = "mailto:ianmonteiromoreira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/ian-monteiro-moreira-a4543a2b7" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+**Backend Developer** especializado em C#, ASP.NET Core e SQL Server.  
+Atualmente no 3° ano de **Engenharia de Software na FIAP** (conclusão 2027) e atuando como **Analista de Sistemas Júnior na SEMI Engenharia**, onde desenvolvo sistemas industriais em produção com clientes reais.
 
+---
 
- ## Ferramentas e Tecnologias 🤖
- <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
- </div>
+## 🏭 O que desenvolvo no trabalho
 
- ## Estou aprendendo ✏️
- <div>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
- </div>
+Na SEMI Engenharia, faço parte de uma equipe enxuta e atuo com alta autonomia em três sistemas industriais em produção:
 
-##
-<div>
-<a href="https://github.com/ianmonteirom">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmonteirom&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- **Telemetria de Água** — Sistema completo de monitoramento em tempo real de 16 estações industriais. Desenvolvi do zero a API REST (8 controllers, 30+ endpoints) e os dashboards web com gráficos históricos por hora, dia e mês
+- **SMI (Sistema de Medição de Indisponibilidade)** — Monitoramento de produção de energia e indisponibilidade operacional de mais de 15 usinas hidrelétricas
+- **Realweb** — Sistema web corporativo com módulos de backend, telas e 17+ relatórios gerenciais no Report Builder
+
+---
+
+## 🛠️ Stack principal
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Banco de Dados & ORM**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Arquitetura & Padrões**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)
+![SOAP](https://img.shields.io/badge/SOAP%2FSOA-FF6F00?style=flat)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-333?style=flat)
+
+**DevOps & Ferramentas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| [Telemetria de Água](https://github.com/ianmonteirom) | C# · ASP.NET Core · SQL Server | API REST + sistema completo de monitoramento de 16 estações industriais em tempo real |
+| [CP2-CS — Banco Digital API](https://github.com/ianmonteirom/CP2-CS) | C# · ASP.NET Core · Oracle · EF | API REST de produtos financeiros com score de crédito e fórmula Price |
+| [vale-webservice](https://github.com/ianmonteirom/vale-webservice) | Java 21 · JAX-WS · JUnit 5 | WebService SOAP de adiantamento salarial com 36 testes unitários |
+| [EcoSentinel](https://github.com/ianmonteirom/EcoSentinel) | Java | Protótipo de sistema de monitoramento ambiental — Global Solution FIAP 2025 |
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Engenharia de Software — FIAP**  
+Fevereiro 2024 – Dezembro 2027 · Cursando 3° ano
+
+Disciplinas relevantes: Domain Driven Design (Java), SOA e Web Services, Database Design, C# Software Development, Inteligência Artificial e Machine Learning, Cybersecurity, Testing e Quality Assurance
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-monteiro-moreira-a4543a2b7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ianmonteiromoreira@gmail.com)
